@@ -39,7 +39,7 @@ In your pull request description, you should include:
 | Prateek Varshney | 3.62 | https://api.wandb.ai/links/stanfordcs/jlkmfbgj |
 | Varun Desai | 3.63 | https://api.wandb.ai/links/vdesai10/all5y62k | | 
 | Harshvardhan Agarwal |      3.65 | https://api.wandb.ai/links/tokenization/0sald7rv |  |
-| Adam Zhao | 3.65 | https://api.wandb.ai/links/zhao1adam-stanford-university/5zgjjs1h |
+| Adam Zhao | 3.58 | https://api.wandb.ai/links/zhao1adam-stanford-university/5zgjjs1h |
 | Shiny Weng |      3.67 | https://api.wandb.ai/links/shinyweng-stanford-university/xt471xol |  |
 | Hongyue Li | 3.79 | [Validation loss curve](./images/lhy.png)  |  |
 | Herumb Shandilya | 3.82 | https://wandb.ai/krypticmouse/cs336-basics/runs/1zl172ay?nw=nwuserkrypticmouse | |
